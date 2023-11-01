@@ -47,7 +47,7 @@ const useStyles = makeStyles((theme) => ({
     padding: "10px 10px 5px",
     margin: "10px",
     position: "relative",
-    backgroundColor: "white",
+    backgroundColor: "green",
     maxWidth: 300,
     borderRadius: 10,
     borderBottomLeftRadius: 0,
